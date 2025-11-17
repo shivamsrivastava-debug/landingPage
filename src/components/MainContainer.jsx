@@ -14,6 +14,10 @@ function MainContainer() {
         <div className='bg-gray-600 w-[10px] h-[10px] rounded-full mt-2'></div>
         <p>Cancel Anytime</p>
       </div>
+      <div className='flex items-center justify-center w-[1200px] mt-6'>
+        <img src="./public/banner.webp" alt="banner" />
+      </div>
+      <h1 className='mt-20 font-bold text-center font text-2xl'>Trusted by 15,000+ founders & business owners</h1>
     </div>
   )
 }

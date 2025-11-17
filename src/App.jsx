@@ -7,14 +7,12 @@ import ConnectContainer from './components/ConnectContainer.jsx';
 import ReviewsContainer from "./components/ReviewsContainer.jsx";
 import SaleContainer from "./components/SaleContainer.jsx"; 
 import FooterContainer from "./components/FooterContainer.jsx"
-import MainCardContainer from "./components/MainCardContainer.jsx";
 
 function App() {
   return (
     <>
     <NavContainer/>
     <MainContainer/>
-    <MainCardContainer/>
     <ScrollContainer/>
     <SwipeContainer/>
     <FeatureContainer/>
