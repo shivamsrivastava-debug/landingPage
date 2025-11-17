@@ -14,12 +14,7 @@ function App() {
     <NavContainer/>
     <MainContainer/>
     <ScrollContainer/>
-    <SwipeContainer/>
-    <FeatureContainer/>
-    <ConnectContainer/>
-    <ReviewsContainer/>
-    <SaleContainer/>
-    <FooterContainer/>
+    <FeatureContainer/>   
     </>
   )
 }
